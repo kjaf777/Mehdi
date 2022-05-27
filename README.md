@@ -1,7 +1,7 @@
 - 👋 Hi, my name is @Mehdi and I’m from Iran. 
 - 👀 My main fields of interest are robotics, control theory, and machine learning.
-- 🌱 I’m currently learning computer vision and perception.
-- 💞️ I’m looking to collaborate on a robotic project abroad.
+- 🌱 I’m currently autonomous systems and navigation.
+- 💞️ Life is great!
 - 📫 How to reach me --> Email: m.farzaneh@sutech.ac.ir
 
 <!---
